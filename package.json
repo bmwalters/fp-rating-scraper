@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "easy-table": "^1.0.0",
+    "progress": "^1.1.8",
+    "scrape-it": "^3.3.2",
+    "yargs": "^7.0.2"
+  }
+}
